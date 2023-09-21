@@ -4,39 +4,30 @@ Before running the application, make sure you have the following installed:
 - Node.js
 - npm (Node Package Manager)
 - MongoDB
-- 
-project/
-│
-├── src/
-│   ├── controllers/
-│   │   ├── authController.js    # Authentication-related controllers
-│   │   └── userController.js    # User management controllers
-│   │
-│   ├── models/
-│   │   └── user.js              # User model schema
-│   │
-│   ├── routes/
-│   │   ├── authRoutes.js        # Authentication-related routes
-│   │   ├── userRoutes.js        # User management routes
-│   │   └── index.js             # Main router file to combine all route files
-│   │
-│   ├── middleware/
-│   │   └── authMiddleware.js    # Authentication middleware
-│   │
-│   └── utils/
-│       ├── jwtUtils.js          # JWT utility functions
-│ 
-│
-├── app.js                       # Main Express application file
-│
-├── config/
-│   └── config.js                # Configuration settings
-│
-├── package.json                 # Project dependencies and scripts
-├── package-lock.json            # Dependency lock file
-├── README.md                    # Project documentation
-├── .gitignore                   # Git ignore file
+- Express.js
 
+project/
+├── src/
+│ ├── controllers/
+│ │ ├── authController.js # Authentication-related controllers
+│ │ └── userController.js # User management controllers
+│ ├── models/
+│ │ └── user.js # User model schema
+│ ├── routes/
+│ │ ├── authRoutes.js # Authentication-related routes
+│ │ ├── userRoutes.js # User management routes
+│ │ └── index.js # Main router file to combine all route files
+│ ├── middleware/
+│ │ └── authMiddleware.js # Authentication middleware
+│ └── utils/
+│ └── jwtUtils.js # JWT utility functions
+├── app.js # Main Express application file
+├── config/
+│ └── config.js # Configuration settings
+├── package.json # Project dependencies and scripts
+├── package-lock.json # Dependency lock file
+├── README.md # Project documentation
+└── .gitignore # Git ignore file
 
 ### Installation
 
