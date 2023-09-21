@@ -161,7 +161,4 @@ Include the JWT token in the request header (Authorization: Bearer YOUR_TOKEN) t
 Contributing
 Contributions are welcome! Please follow the Contributing Guidelines.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Feel free to customize the README further based on your project's specific details. Be sure to replace placeholders like your-username, your-password, your-secret-key, and http://localhost:3000 with the actual values and URLs relevant to your project# Rudra-Innovative-Projects
+Feel free to code review the README further based on my project's specific details. Be sure to replace placeholders like your-username, your-password, your-secret-key, and http://localhost:3000 with the actual values and URLs relevant to your project# Rudra-Innovative-Projects
