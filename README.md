@@ -161,4 +161,4 @@ Include the JWT token in the request header (Authorization: Bearer My_TOKEN) to 
 Contributing
 Contributions are welcome! Please follow the Contributing Guidelines.
 
-Feel free to code review the README further based on my project's specific details. Be sure to replace placeholders like your-username, your-password, your-secret-key, and http://localhost:3000 with the actual values and URLs relevant to your project# Rudra-Innovative-Projects
+Feel free to code review the README further based on my project's specific details. Be sure to replace placeholders like your-username, your-password, your-secret-key, and http://localhost:3000 with the actual values and URLs relevant to my project# Rudra-Innovative-Projects
