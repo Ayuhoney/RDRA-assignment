@@ -9,7 +9,7 @@ Before running the application, make sure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/express-auth-crud-api.git
+  https://github.com/Ayuhoney/rudra-innovative.git
 Change to the project directory:
 
 bash
