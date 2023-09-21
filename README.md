@@ -104,7 +104,7 @@ To get a list of all users, send a GET request to:
 bash
 Copy code
 http://localhost:3000/users
-Include the JWT token in the request header (Authorization: Bearer YOUR_TOKEN) to authenticate the request.
+Include the JWT token in the request header (Authorization: Bearer My_TOKEN) to authenticate the request.
 
 Get User by ID
 To get a user by ID, send a GET request to:
@@ -131,7 +131,7 @@ Copy code
   "age": "New User Age",
   "mobileNumber": "New User Mobile Number"
 }
-Include the JWT token in the request header (Authorization: Bearer YOUR_TOKEN) to authenticate the request.
+Include the JWT token in the request header (Authorization: Bearer My_TOKEN) to authenticate the request.
 
 Update User
 To update a user, send a PUT request to:
@@ -148,7 +148,7 @@ Copy code
   "age": "Updated Age",
   "mobileNumber": "Updated Mobile Number"
 }
-Include the JWT token in the request header (Authorization: Bearer YOUR_TOKEN) to authenticate the request.
+Include the JWT token in the request header (Authorization: Bearer My_TOKEN) to authenticate the request.
 
 Delete User
 To delete a user, send a DELETE request to:
@@ -156,7 +156,7 @@ To delete a user, send a DELETE request to:
 bash
 Copy code
 http://localhost:3000/users/:id
-Include the JWT token in the request header (Authorization: Bearer YOUR_TOKEN) to authenticate the request.
+Include the JWT token in the request header (Authorization: Bearer My_TOKEN) to authenticate the request.
 
 Contributing
 Contributions are welcome! Please follow the Contributing Guidelines.
