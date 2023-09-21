@@ -5,7 +5,7 @@ Before running the application, make sure you have the following installed:
 - npm (Node Package Manager)
 - MongoDB
 - 
-- project-root/
+project/
 │
 ├── src/
 │   ├── controllers/
@@ -25,6 +25,7 @@ Before running the application, make sure you have the following installed:
 │   │
 │   └── utils/
 │       ├── jwtUtils.js          # JWT utility functions
+│ 
 │
 ├── app.js                       # Main Express application file
 │
@@ -35,6 +36,7 @@ Before running the application, make sure you have the following installed:
 ├── package-lock.json            # Dependency lock file
 ├── README.md                    # Project documentation
 ├── .gitignore                   # Git ignore file
+
 
 ### Installation
 
